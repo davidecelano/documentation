@@ -1,6 +1,7 @@
 ---
 Title: Manpage apx - Vanilla OS
 Description: Manpage für das apx-Programm.
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

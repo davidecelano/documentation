@@ -2,6 +2,7 @@
 Title: Porting ABRoot v1 to your distribution
 Description: Find out how to port ABRoot v1 to your distribution.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 Tags:

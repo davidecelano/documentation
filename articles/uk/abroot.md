@@ -2,6 +2,7 @@
 Title: Незмінюваність (ABRoot) - Vanilla OS
 Description: Дізнайтеся, як використовувати ABRoot.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

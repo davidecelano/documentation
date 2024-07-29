@@ -2,6 +2,7 @@
 Title: Packaging 
 Description: Find out how to package software and libraries for Vanilla OS.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 Tags:

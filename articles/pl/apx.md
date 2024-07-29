@@ -2,6 +2,7 @@
 Title: Menedżer pakietów (apx) - Vanilla OS
 Description: Dowiedz się, jak korzystać z apx, menedżera pakietów w Vanilla OS
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

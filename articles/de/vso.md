@@ -1,6 +1,7 @@
 ---
 Title: Vanilla System Operator (vso) - Vanilla OS
 Description: Erfahren Sie, wie Sie das vso-Programm nutzen können, um Wartungsaufgaben an Ihrem Vanilla OS-System durchzuführen.
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

@@ -2,6 +2,7 @@
 Title: Ikaros Manpage
 Description: Manpage for the Ikaros utility.
 PublicationDate: 2023-09-03
+Listed: true
 Authors: 
   - Vanilla-OS
 Tags:

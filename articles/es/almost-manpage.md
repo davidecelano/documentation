@@ -2,6 +2,7 @@
 Title: Manual de almost - Vanilla OS
 Description: Manual de la utilidad almost.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

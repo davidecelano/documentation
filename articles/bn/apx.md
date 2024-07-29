@@ -1,6 +1,7 @@
 ---
 Title: প্যাকেজ ম্যানেজার (apx) - ভ্যানিলা ওএস
 Description: কীভাবে ভ্যনিলা ওএস প্যাকেজ ম্যানেজার apx ব্যবহার করতে হয় তা জানুন।
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

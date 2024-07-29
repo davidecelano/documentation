@@ -1,6 +1,7 @@
 ---
 Title: Unveränderlichkeit (ABRoot) - Vanilla OS
 Description: Erfahren Sie, wie man ABRoot benutzt.
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

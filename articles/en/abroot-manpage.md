@@ -2,6 +2,7 @@
 Title: ABRoot Manpage
 Description: Manpage for the ABRoot utility.
 PublicationDate: 2023-08-29
+Listed: true
 Authors: 
   - Vanilla-OS
   - kbdharun

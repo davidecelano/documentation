@@ -2,6 +2,7 @@
 Title: Apx v1 - Introduction
 Description: Find out how to use apx, the Vanilla OS package manager.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 Tags:

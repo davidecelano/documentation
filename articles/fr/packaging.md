@@ -2,6 +2,7 @@
 Title: Packaging - Vanilla OS
 Description: Découvrez comment packager des programmes et des librairies pour Vanilla OS.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

@@ -2,6 +2,7 @@
 Title: Пакування - Vanilla OS
 Description: Дізнайтеся, як пакувати програмне забезпечення та бібліотеки для Vanilla OS.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

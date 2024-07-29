@@ -2,6 +2,7 @@
 Title: VSO - Manpage - Vanilla OS
 Description: Керування для утиліти vso.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

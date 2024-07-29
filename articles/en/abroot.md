@@ -2,6 +2,7 @@
 Title: ABRoot v1 - Introduction
 Description: Find out how to use ABRoot.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 Tags:

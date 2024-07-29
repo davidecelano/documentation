@@ -2,6 +2,7 @@
 Title: Менеджер пакунків (apx) - Vanilla OS
 Description: Дізнайтеся, як користуватися apx, менеджером пакунків Vanilla OS.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

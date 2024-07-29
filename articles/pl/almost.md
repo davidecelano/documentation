@@ -2,6 +2,7 @@
 Title: Niezmienność (almost) - Vanilla OS
 Description: Dowiedz się, jak korzystać z Almost, narzędzia do niezmienności na żądanie.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

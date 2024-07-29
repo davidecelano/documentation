@@ -2,6 +2,7 @@
 Title: Manpage vso - Vanilla OS
 Description: Manpage pour l'utilitaire vso.
 PublicationDate: 2023-06-10
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

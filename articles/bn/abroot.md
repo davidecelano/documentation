@@ -1,6 +1,7 @@
 ---
 Title: অপরিবর্তনীয়তা (এবিরুট) - ভ্যানিলা ওএস
 Description: কীভাবে এবিরুট ব্যবহার করতে হয় তা শিখুন।
+Listed: true
 Authors: 
   - Vanilla-OS
 ---

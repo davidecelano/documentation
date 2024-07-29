@@ -1,6 +1,7 @@
 ---
 Title: Paketmanager (apx) - VanillaOS
 Description: Bedienungsanleitung des Paketmanagers von VanillaOS, apx
+Listed: true
 Authors: 
   - Vanilla-OS
 ---
